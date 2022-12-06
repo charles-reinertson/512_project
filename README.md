@@ -1,15 +1,15 @@
 # 512_Course_Project
 # Covid Case Analysis
 
-The course project is broken into four parts: 
+This project is broken down into two parts
 
-Part 1 - Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis. All of the students in the class will conduct the same analysis, but with a slightly different data subset.
+**Part 1 - Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis.**
+Notebook: part_1.ipynb
+Files: covid_case_changepoints.jpg, derivation.jpg
 
-Part 2 - Extension Plan will require you to ask a human centered data science question that extends the work in A4: Common Analysis.
-
-Part 3 - Presentation will require you to give a modified (shorter) PechaKucha presentation of your completed project.
-
-Part 4 - Project Repository, creation of a fully documented repository and also requires the submission of a written project report.
+**Part 2 - Extension Plan asks a human centered data science question that extends the work in A4: Common Analysis.**
+Notebooks (in order of execution): step_1_clean_train_data.ipynb, step_2_train_model.ipynb, step_3_clean_prod_data.ipynb, step_4_prod_model.ipynb
+Files: models/*, outputted_images/*
 
 **Intermediary Data Files**
 
