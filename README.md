@@ -4,12 +4,12 @@
 This project is broken down into two parts
 
 **Part 1 - Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis.**
-Notebook: part_1.ipynb
-Files: covid_case_changepoints.jpg, derivation.jpg
+    Notebook: part_1.ipynb
+    Files: covid_case_changepoints.jpg, derivation.jpg
 
-**Part 2 - Extension Plan asks a human centered data science question that extends the work in A4: Common Analysis.**
-Notebooks (in order of execution): step_1_clean_train_data.ipynb, step_2_train_model.ipynb, step_3_clean_prod_data.ipynb, step_4_prod_model.ipynb
-Files: models/*, outputted_images/*
+**Part 2 - Extension Plan asks a human centered data science question that extends the Common Analysis.**
+    Notebooks (in order of execution): step_1_clean_train_data.ipynb, step_2_train_model.ipynb, step_3_clean_prod_data.ipynb, step_4_prod_model.ipynb
+    Files: models/*, outputted_images/*
 
 **Intermediary Data Files**
 
