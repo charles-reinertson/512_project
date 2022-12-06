@@ -1,4 +1,4 @@
-# 512_Course_Project
+# DATA 512 Course Project
 # Covid Case Analysis
 
 This project is broken down into two parts
