@@ -18,3 +18,12 @@ Part 4 - Project Repository, creation of a fully documented repository and also 
     2. The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021. (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
     
     3. The New York Times mask compliance survey data. The New York Times Company is providing this database under the following free-of-cost, perpetual, non-exclusive license - https://github.com/nytimes/covid-19-data/blob/master/LICENSE.  (https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
+
+**Files Created**
+
+    1. cleaned_data.csv - After running the three intermediary data files through the notebook step_1_clean_train_data.ipynb, the output of this file is this csv file that is used for model training.
+    2. validate_data.csv - Performs the same steps that created cleaned_data.csv except for the counties that the model did not see during training (counties named Wayne). This action is performed in step_3_clean_prod_data.ipynb
+
+**Known Issues**
+
+
