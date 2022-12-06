@@ -1,5 +1,5 @@
 # DATA 512 Course Project
-# Covid Case Analysis
+# Covid Analysis + Mask Compliance Forecasting
 
 This project is broken down into two parts
 
