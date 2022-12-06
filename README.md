@@ -11,7 +11,9 @@ This project is broken down into two parts
 **Part 2 - Extension Plan asks a human centered data science question that extends the Common Analysis.** 
 
     1. Notebooks (in order of execution): step_1_clean_train_data.ipynb, step_2_train_model.ipynb, step_3_clean_prod_data.ipynb, step_4_prod_model.ipynb 
-    2. Files: models/*, outputted_images/* 
+    2. Files: models/*, outputted_images/*, data/*
+    
+    note: the file data/* is where all intermediary data files and initial data files must be present.
 
 **Data Descriptions**
 
