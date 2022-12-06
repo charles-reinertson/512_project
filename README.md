@@ -13,8 +13,10 @@ Part 4 - Project Repository, creation of a fully documented repository and also 
 
 **Intermediary Data Files**
 
-    1. The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022. (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_deaths.csv)
+    1. The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022. Liscense Attribution 4.0 International (CC BY 4.0) which means we are free to share and adapt this data. (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_deaths.csv)
     
     2. The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021. (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
     
-    3. The New York Times mask compliance survey data. (https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
+    3. The New York Times mask compliance survey data. The New York Times Company is
+providing this database under the following free-of-cost, perpetual,
+non-exclusive license - https://github.com/nytimes/covid-19-data/blob/master/LICENSE.  (https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
